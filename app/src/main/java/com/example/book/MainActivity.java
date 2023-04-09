@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
         });
         DrawerLayout drawer = binding.drawerLayout;
         NavigationView navigationView = binding.navView;
-        // Passing each menu ID as a set of Ids because eac。。。，，，
+        // Passing each menu ID as a set of Ids because 。，，，
         // menu should be considered as top level   ，fdestinations.
         mAppBarConfiguration = new AppBarConfiguration.Builder(
                 R.id.nav_home, R.id.nav_gallery, R.id.nav_slideshow)
